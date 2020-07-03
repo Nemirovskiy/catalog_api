@@ -1,0 +1,3718 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 1",
+      "short_description": "Rerum in aliquid aliquid eos ut dolorem provident.",
+      "image_url": "https:\/\/picsum.photos\/id\/22\/200\/300",
+      "amount": 32,
+      "price": 5570.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        },
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        },
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 2",
+      "short_description": "Aut omnis et voluptatem qui cumque.",
+      "image_url": "https:\/\/picsum.photos\/id\/290\/200\/300",
+      "amount": 40,
+      "price": 7224.99,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        },
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 3",
+      "short_description": "Tempora eos magni molestiae ducimus.",
+      "image_url": "https:\/\/picsum.photos\/id\/700\/200\/300",
+      "amount": 34,
+      "price": 5604.58,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 4,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 4",
+      "short_description": "Autem dignissimos ipsam iste earum omnis.",
+      "image_url": "https:\/\/picsum.photos\/id\/492\/200\/300",
+      "amount": 8,
+      "price": 1558.65,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 5",
+      "short_description": "Explicabo id tempore qui voluptate quo laborum.",
+      "image_url": "https:\/\/picsum.photos\/id\/661\/200\/300",
+      "amount": 19,
+      "price": 8702.27,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        },
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        },
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 6",
+      "short_description": "Cum sunt vel deleniti.",
+      "image_url": "https:\/\/picsum.photos\/id\/233\/200\/300",
+      "amount": 22,
+      "price": 7181.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        },
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        },
+        {
+          "id": 41,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1",
+          "parent_id": 40
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 7",
+      "short_description": "Et cum dolorum eius a inventore assumenda.",
+      "image_url": "https:\/\/picsum.photos\/id\/347\/200\/300",
+      "amount": 9,
+      "price": 4703.58,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        },
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 8",
+      "short_description": "Corporis et esse accusantium.",
+      "image_url": "https:\/\/picsum.photos\/id\/947\/200\/300",
+      "amount": 9,
+      "price": 6934.98,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        },
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 9",
+      "short_description": "Quo aspernatur asperiores magnam vel.",
+      "image_url": "https:\/\/picsum.photos\/id\/329\/200\/300",
+      "amount": 46,
+      "price": 1171.45,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 19,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2.1",
+          "parent_id": 18
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 10",
+      "short_description": "Consequatur distinctio eum deleniti.",
+      "image_url": "https:\/\/picsum.photos\/id\/44\/200\/300",
+      "amount": 18,
+      "price": 5200.06,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 4,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.1",
+          "parent_id": 3
+        },
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        },
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 11",
+      "short_description": "Vel qui ullam animi vel dolores voluptatem.",
+      "image_url": "https:\/\/picsum.photos\/id\/638\/200\/300",
+      "amount": 40,
+      "price": 8246.01,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        },
+        {
+          "id": 10,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.1",
+          "parent_id": 9
+        },
+        {
+          "id": 48,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.3",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 12",
+      "short_description": "Et ea id quibusdam.",
+      "image_url": "https:\/\/picsum.photos\/id\/197\/200\/300",
+      "amount": 11,
+      "price": 6931.84,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 13",
+      "short_description": "Sint omnis hic labore ex dignissimos.",
+      "image_url": "https:\/\/picsum.photos\/id\/318\/200\/300",
+      "amount": 32,
+      "price": 4077.31,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 14",
+      "short_description": "Cum necessitatibus id porro qui eius nam cumque.",
+      "image_url": "https:\/\/picsum.photos\/id\/241\/200\/300",
+      "amount": 40,
+      "price": 2097.99,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 55,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.2",
+          "parent_id": 53
+        },
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 15",
+      "short_description": "Qui ea iusto tempore pariatur.",
+      "image_url": "https:\/\/picsum.photos\/id\/328\/200\/300",
+      "amount": 32,
+      "price": 1137.68,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 44,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.3",
+          "parent_id": 41
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 16",
+      "short_description": "Ullam tempora est qui quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/307\/200\/300",
+      "amount": 14,
+      "price": 3670.91,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        },
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        },
+        {
+          "id": 48,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.3",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 17",
+      "short_description": "Incidunt et quos exercitationem.",
+      "image_url": "https:\/\/picsum.photos\/id\/998\/200\/300",
+      "amount": 12,
+      "price": 9304.29,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        },
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 18",
+      "short_description": "Ex inventore voluptates eligendi amet.",
+      "image_url": "https:\/\/picsum.photos\/id\/430\/200\/300",
+      "amount": 20,
+      "price": 9392.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 13,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.3",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 19",
+      "short_description": "Enim quas tempora neque vero ipsa perferendis facilis numquam.",
+      "image_url": "https:\/\/picsum.photos\/id\/241\/200\/300",
+      "amount": 12,
+      "price": 1736.84,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 20",
+      "short_description": "Saepe cumque dolore rerum nisi quae est quibusdam.",
+      "image_url": "https:\/\/picsum.photos\/id\/804\/200\/300",
+      "amount": 49,
+      "price": 84.11,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        },
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 21",
+      "short_description": "Beatae dicta et est inventore non aperiam deserunt.",
+      "image_url": "https:\/\/picsum.photos\/id\/885\/200\/300",
+      "amount": 11,
+      "price": 361.36,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        },
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 22",
+      "short_description": "Ad quaerat nihil neque autem totam sed quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/483\/200\/300",
+      "amount": 9,
+      "price": 7776.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 23",
+      "short_description": "Necessitatibus tenetur suscipit quo corrupti perferendis quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/292\/200\/300",
+      "amount": 1,
+      "price": 726.41,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 24",
+      "short_description": "Ut quo laboriosam at.",
+      "image_url": "https:\/\/picsum.photos\/id\/792\/200\/300",
+      "amount": 15,
+      "price": 9843.11,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        },
+        {
+          "id": 4,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.1",
+          "parent_id": 3
+        },
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 25",
+      "short_description": "Pariatur officia id tempore esse iure reiciendis.",
+      "image_url": "https:\/\/picsum.photos\/id\/788\/200\/300",
+      "amount": 16,
+      "price": 5311.62,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 26,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 26",
+      "short_description": "Nobis corrupti sequi ipsam repellat cum aspernatur.",
+      "image_url": "https:\/\/picsum.photos\/id\/501\/200\/300",
+      "amount": 34,
+      "price": 4837.16,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 55,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.2",
+          "parent_id": 53
+        },
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        },
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 27",
+      "short_description": "Odio rem quibusdam soluta a.",
+      "image_url": "https:\/\/picsum.photos\/id\/926\/200\/300",
+      "amount": 19,
+      "price": 2553.32,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 28,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 28",
+      "short_description": "Sed et quia quae dolor sed et eaque.",
+      "image_url": "https:\/\/picsum.photos\/id\/168\/200\/300",
+      "amount": 46,
+      "price": 4819.78,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 29",
+      "short_description": "Id facere eum enim qui sed libero atque.",
+      "image_url": "https:\/\/picsum.photos\/id\/64\/200\/300",
+      "amount": 32,
+      "price": 7581.64,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 15,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1",
+          "parent_id": 14
+        },
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        },
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 30",
+      "short_description": "Ut mollitia accusamus voluptatem commodi mollitia perferendis.",
+      "image_url": "https:\/\/picsum.photos\/id\/694\/200\/300",
+      "amount": 49,
+      "price": 2494.75,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 31",
+      "short_description": "Et aliquid eligendi minima fugiat eos vitae quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/583\/200\/300",
+      "amount": 3,
+      "price": 262.04,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 32",
+      "short_description": "Harum voluptas eius sint sunt non sit ratione.",
+      "image_url": "https:\/\/picsum.photos\/id\/859\/200\/300",
+      "amount": 16,
+      "price": 8965.4,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 10,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.1",
+          "parent_id": 9
+        },
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        },
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 33",
+      "short_description": "Quam omnis nobis doloribus ullam voluptatum rerum ipsa.",
+      "image_url": "https:\/\/picsum.photos\/id\/487\/200\/300",
+      "amount": 36,
+      "price": 8657.21,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        },
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 34",
+      "short_description": "Eaque quis ipsam omnis a qui ab est.",
+      "image_url": "https:\/\/picsum.photos\/id\/271\/200\/300",
+      "amount": 11,
+      "price": 6062.21,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 35",
+      "short_description": "Enim quo aut repellat doloremque nihil nulla nam.",
+      "image_url": "https:\/\/picsum.photos\/id\/720\/200\/300",
+      "amount": 26,
+      "price": 5106.41,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 36,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 36",
+      "short_description": "Ab aut iste totam.",
+      "image_url": "https:\/\/picsum.photos\/id\/363\/200\/300",
+      "amount": 16,
+      "price": 2129.74,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 43,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.2",
+          "parent_id": 41
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 37",
+      "short_description": "Autem id nesciunt ipsam autem mollitia et aut officiis.",
+      "image_url": "https:\/\/picsum.photos\/id\/386\/200\/300",
+      "amount": 34,
+      "price": 9387.23,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        },
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 38",
+      "short_description": "Labore sunt ipsum maiores aut illum explicabo.",
+      "image_url": "https:\/\/picsum.photos\/id\/85\/200\/300",
+      "amount": 18,
+      "price": 165.67,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 19,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2.1",
+          "parent_id": 18
+        },
+        {
+          "id": 4,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.1",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 39",
+      "short_description": "Accusamus eligendi incidunt sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/240\/200\/300",
+      "amount": 14,
+      "price": 6605.06,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 40",
+      "short_description": "Accusamus numquam molestiae nihil tempora ipsam.",
+      "image_url": "https:\/\/picsum.photos\/id\/208\/200\/300",
+      "amount": 40,
+      "price": 4294.53,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        },
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 41",
+      "short_description": "Et nostrum suscipit quo alias autem.",
+      "image_url": "https:\/\/picsum.photos\/id\/379\/200\/300",
+      "amount": 31,
+      "price": 5953.07,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 10,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.1",
+          "parent_id": 9
+        },
+        {
+          "id": 20,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2",
+          "parent_id": null
+        },
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 42",
+      "short_description": "Officiis eos quod assumenda ut voluptas neque quod.",
+      "image_url": "https:\/\/picsum.photos\/id\/880\/200\/300",
+      "amount": 44,
+      "price": 7137.04,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 43,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 43",
+      "short_description": "Cumque consequatur sed cupiditate facilis quia sit dolores voluptas.",
+      "image_url": "https:\/\/picsum.photos\/id\/695\/200\/300",
+      "amount": 2,
+      "price": 8759.03,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 44",
+      "short_description": "Consequatur sit quis porro itaque.",
+      "image_url": "https:\/\/picsum.photos\/id\/740\/200\/300",
+      "amount": 11,
+      "price": 7860.88,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        },
+        {
+          "id": 37,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 45",
+      "short_description": "Et aperiam cum velit quo a ab.",
+      "image_url": "https:\/\/picsum.photos\/id\/836\/200\/300",
+      "amount": 23,
+      "price": 1428.97,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 46,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 46",
+      "short_description": "Explicabo minima in explicabo eveniet qui.",
+      "image_url": "https:\/\/picsum.photos\/id\/327\/200\/300",
+      "amount": 21,
+      "price": 3130.36,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 47",
+      "short_description": "Fugit consequuntur perferendis vero voluptate odio.",
+      "image_url": "https:\/\/picsum.photos\/id\/899\/200\/300",
+      "amount": 27,
+      "price": 6775.08,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        },
+        {
+          "id": 44,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.3",
+          "parent_id": 41
+        },
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 48",
+      "short_description": "Molestiae et quis eligendi commodi quis.",
+      "image_url": "https:\/\/picsum.photos\/id\/139\/200\/300",
+      "amount": 18,
+      "price": 5801.63,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 49",
+      "short_description": "Sit incidunt alias sint numquam sint.",
+      "image_url": "https:\/\/picsum.photos\/id\/976\/200\/300",
+      "amount": 50,
+      "price": 9552.78,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 11,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.2",
+          "parent_id": 9
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 50",
+      "short_description": "Fugiat provident consequatur odio eum aut quam.",
+      "image_url": "https:\/\/picsum.photos\/id\/423\/200\/300",
+      "amount": 2,
+      "price": 7018.5,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 51,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 51",
+      "short_description": "Ut nulla distinctio eius odio dicta molestiae.",
+      "image_url": "https:\/\/picsum.photos\/id\/847\/200\/300",
+      "amount": 32,
+      "price": 3280.19,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 52",
+      "short_description": "Itaque accusantium est distinctio molestiae eaque.",
+      "image_url": "https:\/\/picsum.photos\/id\/851\/200\/300",
+      "amount": 22,
+      "price": 3476.49,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 53,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 53",
+      "short_description": "Asperiores ut placeat ad voluptatibus eum sit maiores.",
+      "image_url": "https:\/\/picsum.photos\/id\/824\/200\/300",
+      "amount": 12,
+      "price": 56.8,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        },
+        {
+          "id": 41,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1",
+          "parent_id": 40
+        },
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 54",
+      "short_description": "Et qui vel minus consequatur.",
+      "image_url": "https:\/\/picsum.photos\/id\/536\/200\/300",
+      "amount": 32,
+      "price": 6132.34,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 46,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.1",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 55",
+      "short_description": "Quibusdam consequuntur recusandae assumenda architecto laboriosam id magnam sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/866\/200\/300",
+      "amount": 43,
+      "price": 7820.68,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 45,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2",
+          "parent_id": 40
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 56",
+      "short_description": "Aperiam perferendis aut eos in qui quo aliquid.",
+      "image_url": "https:\/\/picsum.photos\/id\/240\/200\/300",
+      "amount": 14,
+      "price": 2987.36,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        },
+        {
+          "id": 20,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 57",
+      "short_description": "Voluptate exercitationem rerum qui dolore.",
+      "image_url": "https:\/\/picsum.photos\/id\/316\/200\/300",
+      "amount": 0,
+      "price": 5932.58,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 58",
+      "short_description": "Labore quidem voluptas explicabo aut suscipit qui ut.",
+      "image_url": "https:\/\/picsum.photos\/id\/128\/200\/300",
+      "amount": 33,
+      "price": 8450.18,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        },
+        {
+          "id": 10,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.1",
+          "parent_id": 9
+        },
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 59",
+      "short_description": "Sed ut aut impedit et illo nemo.",
+      "image_url": "https:\/\/picsum.photos\/id\/638\/200\/300",
+      "amount": 36,
+      "price": 7125.55,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 60,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 60",
+      "short_description": "In sed non delectus quia officiis autem.",
+      "image_url": "https:\/\/picsum.photos\/id\/759\/200\/300",
+      "amount": 50,
+      "price": 3346.44,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 61,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 61",
+      "short_description": "Eum soluta qui harum magnam in voluptatem laboriosam.",
+      "image_url": "https:\/\/picsum.photos\/id\/15\/200\/300",
+      "amount": 36,
+      "price": 2045.23,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 11,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.2",
+          "parent_id": 9
+        },
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 62",
+      "short_description": "Et corrupti sit earum ab magni est eligendi sunt.",
+      "image_url": "https:\/\/picsum.photos\/id\/380\/200\/300",
+      "amount": 43,
+      "price": 5570.94,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 46,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.1",
+          "parent_id": 45
+        },
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 63",
+      "short_description": "Doloribus ex laudantium deleniti in eum rerum alias.",
+      "image_url": "https:\/\/picsum.photos\/id\/904\/200\/300",
+      "amount": 18,
+      "price": 9098.31,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 41,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1",
+          "parent_id": 40
+        },
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        },
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 64",
+      "short_description": "Distinctio accusamus earum aut iste provident.",
+      "image_url": "https:\/\/picsum.photos\/id\/579\/200\/300",
+      "amount": 30,
+      "price": 2504.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 4,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.1",
+          "parent_id": 3
+        },
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        },
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 65",
+      "short_description": "Culpa incidunt est exercitationem asperiores.",
+      "image_url": "https:\/\/picsum.photos\/id\/76\/200\/300",
+      "amount": 35,
+      "price": 4344.3,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        },
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 66",
+      "short_description": "Dolorum necessitatibus mollitia velit voluptas nihil.",
+      "image_url": "https:\/\/picsum.photos\/id\/39\/200\/300",
+      "amount": 39,
+      "price": 845.82,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        },
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 67",
+      "short_description": "Asperiores autem quo natus temporibus quo voluptatem ut.",
+      "image_url": "https:\/\/picsum.photos\/id\/727\/200\/300",
+      "amount": 43,
+      "price": 2729.52,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 68",
+      "short_description": "Soluta repudiandae quibusdam et magnam rerum.",
+      "image_url": "https:\/\/picsum.photos\/id\/321\/200\/300",
+      "amount": 11,
+      "price": 3825.75,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 69,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 69",
+      "short_description": "Eum eos porro eveniet blanditiis aut quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/989\/200\/300",
+      "amount": 33,
+      "price": 590.23,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 70,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 70",
+      "short_description": "Fugit voluptatem aut distinctio aperiam soluta praesentium.",
+      "image_url": "https:\/\/picsum.photos\/id\/930\/200\/300",
+      "amount": 47,
+      "price": 4277.45,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 71",
+      "short_description": "Voluptas rerum officiis ab magnam dicta.",
+      "image_url": "https:\/\/picsum.photos\/id\/245\/200\/300",
+      "amount": 17,
+      "price": 4002.49,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 10,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.1",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 72",
+      "short_description": "Et ut qui qui nobis laboriosam nam inventore aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/301\/200\/300",
+      "amount": 17,
+      "price": 6279.88,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 73,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 73",
+      "short_description": "Est omnis sit est accusamus quod nisi sed.",
+      "image_url": "https:\/\/picsum.photos\/id\/796\/200\/300",
+      "amount": 42,
+      "price": 3151.52,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 74,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 74",
+      "short_description": "Veritatis et libero impedit cum fugit.",
+      "image_url": "https:\/\/picsum.photos\/id\/339\/200\/300",
+      "amount": 36,
+      "price": 6084.96,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 1,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1",
+          "parent_id": null
+        },
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        },
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 75",
+      "short_description": "Sit natus sint neque vel enim numquam perferendis.",
+      "image_url": "https:\/\/picsum.photos\/id\/994\/200\/300",
+      "amount": 29,
+      "price": 5216.43,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 76",
+      "short_description": "Repellat ut rerum est ut ab sint.",
+      "image_url": "https:\/\/picsum.photos\/id\/454\/200\/300",
+      "amount": 34,
+      "price": 4065.06,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 56,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 5",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 77",
+      "short_description": "Delectus et veniam exercitationem repellendus.",
+      "image_url": "https:\/\/picsum.photos\/id\/141\/200\/300",
+      "amount": 46,
+      "price": 7264.96,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 78,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 78",
+      "short_description": "Totam rerum dolores ut ut explicabo enim ut.",
+      "image_url": "https:\/\/picsum.photos\/id\/417\/200\/300",
+      "amount": 44,
+      "price": 4037.2,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 79",
+      "short_description": "Veniam est accusamus ut maiores sed doloremque sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/57\/200\/300",
+      "amount": 16,
+      "price": 6967.35,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        },
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 80",
+      "short_description": "Ullam nihil dolor ipsam eum.",
+      "image_url": "https:\/\/picsum.photos\/id\/87\/200\/300",
+      "amount": 20,
+      "price": 4800.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 45,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2",
+          "parent_id": 40
+        },
+        {
+          "id": 22,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1",
+          "parent_id": 21
+        },
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 81",
+      "short_description": "Qui consequuntur veritatis distinctio aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/571\/200\/300",
+      "amount": 37,
+      "price": 415.64,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        },
+        {
+          "id": 36,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1.1",
+          "parent_id": 35
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 82",
+      "short_description": "Aut error nemo itaque harum iure.",
+      "image_url": "https:\/\/picsum.photos\/id\/95\/200\/300",
+      "amount": 32,
+      "price": 4588.58,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 83,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 83",
+      "short_description": "Fuga nisi et molestiae quis corrupti aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/59\/200\/300",
+      "amount": 8,
+      "price": 1017.16,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 84",
+      "short_description": "Eos temporibus officia occaecati harum.",
+      "image_url": "https:\/\/picsum.photos\/id\/958\/200\/300",
+      "amount": 9,
+      "price": 5391.94,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        },
+        {
+          "id": 20,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 85",
+      "short_description": "Ipsa illum porro maiores ducimus consequatur.",
+      "image_url": "https:\/\/picsum.photos\/id\/156\/200\/300",
+      "amount": 32,
+      "price": 7044.35,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 86,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 86",
+      "short_description": "Dignissimos in debitis qui et maxime.",
+      "image_url": "https:\/\/picsum.photos\/id\/604\/200\/300",
+      "amount": 15,
+      "price": 8554,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 29,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3",
+          "parent_id": null
+        },
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 87",
+      "short_description": "Sint asperiores illo quia aliquid tenetur praesentium aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/579\/200\/300",
+      "amount": 42,
+      "price": 2146.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 88",
+      "short_description": "Et possimus omnis deserunt voluptatem aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/996\/200\/300",
+      "amount": 33,
+      "price": 7477.87,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        },
+        {
+          "id": 27,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.1",
+          "parent_id": 26
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 89",
+      "short_description": "Consectetur velit eos dolor officiis.",
+      "image_url": "https:\/\/picsum.photos\/id\/526\/200\/300",
+      "amount": 40,
+      "price": 4130.83,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        },
+        {
+          "id": 9,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 90",
+      "short_description": "Quidem ex voluptas ut.",
+      "image_url": "https:\/\/picsum.photos\/id\/495\/200\/300",
+      "amount": 26,
+      "price": 4218.63,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 29,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3",
+          "parent_id": null
+        },
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        },
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 91",
+      "short_description": "Numquam ea ducimus magni eos.",
+      "image_url": "https:\/\/picsum.photos\/id\/862\/200\/300",
+      "amount": 10,
+      "price": 5611.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        },
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 92",
+      "short_description": "Sint et eos consequatur debitis alias consequatur enim.",
+      "image_url": "https:\/\/picsum.photos\/id\/912\/200\/300",
+      "amount": 48,
+      "price": 1067.94,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 93,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 93",
+      "short_description": "Aliquid qui vel quam.",
+      "image_url": "https:\/\/picsum.photos\/id\/144\/200\/300",
+      "amount": 29,
+      "price": 4448.73,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 94,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 94",
+      "short_description": "Id nesciunt maiores quod voluptatem.",
+      "image_url": "https:\/\/picsum.photos\/id\/897\/200\/300",
+      "amount": 45,
+      "price": 4740.04,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 95,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 95",
+      "short_description": "Odit molestiae qui quod ipsam doloribus.",
+      "image_url": "https:\/\/picsum.photos\/id\/697\/200\/300",
+      "amount": 46,
+      "price": 5038.17,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 96",
+      "short_description": "Ab dolorem inventore autem voluptatem repellendus cupiditate.",
+      "image_url": "https:\/\/picsum.photos\/id\/629\/200\/300",
+      "amount": 35,
+      "price": 1035.33,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        },
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        },
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 97",
+      "short_description": "Magnam consequuntur qui dolores aut id.",
+      "image_url": "https:\/\/picsum.photos\/id\/988\/200\/300",
+      "amount": 9,
+      "price": 4640.89,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        },
+        {
+          "id": 42,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.1",
+          "parent_id": 41
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 98",
+      "short_description": "Aut voluptates fugiat quam sed doloremque nostrum.",
+      "image_url": "https:\/\/picsum.photos\/id\/640\/200\/300",
+      "amount": 8,
+      "price": 9604.59,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        },
+        {
+          "id": 30,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 99",
+      "short_description": "Minima earum dignissimos earum consequatur saepe dolores.",
+      "image_url": "https:\/\/picsum.photos\/id\/349\/200\/300",
+      "amount": 43,
+      "price": 8627.35,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 48,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.3",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 100",
+      "short_description": "Voluptas aliquid impedit tenetur sunt rem quo dolorem.",
+      "image_url": "https:\/\/picsum.photos\/id\/608\/200\/300",
+      "amount": 36,
+      "price": 8184.76,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 46,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.1",
+          "parent_id": 45
+        },
+        {
+          "id": 42,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.1",
+          "parent_id": 41
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 101",
+      "short_description": "Ex eius consequatur dolorem sit qui sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/880\/200\/300",
+      "amount": 12,
+      "price": 5543.57,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 102",
+      "short_description": "Aut velit officiis rem quo quia voluptate.",
+      "image_url": "https:\/\/picsum.photos\/id\/781\/200\/300",
+      "amount": 45,
+      "price": 7381.3,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 103",
+      "short_description": "Ad asperiores aut et aut dolore dicta sapiente.",
+      "image_url": "https:\/\/picsum.photos\/id\/195\/200\/300",
+      "amount": 5,
+      "price": 7415.7,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 104",
+      "short_description": "Eos mollitia cupiditate suscipit sit molestias animi.",
+      "image_url": "https:\/\/picsum.photos\/id\/243\/200\/300",
+      "amount": 6,
+      "price": 4615.35,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 105",
+      "short_description": "Ab quaerat libero cum dolores pariatur ullam.",
+      "image_url": "https:\/\/picsum.photos\/id\/363\/200\/300",
+      "amount": 27,
+      "price": 1233.38,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 106",
+      "short_description": "Quas et voluptatem occaecati est.",
+      "image_url": "https:\/\/picsum.photos\/id\/988\/200\/300",
+      "amount": 21,
+      "price": 832.88,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 107",
+      "short_description": "In veritatis cum mollitia ipsum necessitatibus suscipit.",
+      "image_url": "https:\/\/picsum.photos\/id\/652\/200\/300",
+      "amount": 37,
+      "price": 3794.52,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 30,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 108",
+      "short_description": "Dolorum molestias reprehenderit iure sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/580\/200\/300",
+      "amount": 6,
+      "price": 6566.04,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 45,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2",
+          "parent_id": 40
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 109",
+      "short_description": "Ut nobis quidem voluptatem aperiam.",
+      "image_url": "https:\/\/picsum.photos\/id\/395\/200\/300",
+      "amount": 31,
+      "price": 3106.76,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 110,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 110",
+      "short_description": "Ut est asperiores vitae laudantium aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/349\/200\/300",
+      "amount": 47,
+      "price": 1045.4,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 14,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3",
+          "parent_id": 1
+        },
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 111",
+      "short_description": "Nostrum quo deleniti ut aut architecto dolor quae.",
+      "image_url": "https:\/\/picsum.photos\/id\/139\/200\/300",
+      "amount": 47,
+      "price": 428.05,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 112",
+      "short_description": "Fugiat at quis tenetur corporis vel perspiciatis.",
+      "image_url": "https:\/\/picsum.photos\/id\/637\/200\/300",
+      "amount": 43,
+      "price": 1634.56,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 45,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2",
+          "parent_id": 40
+        },
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 113",
+      "short_description": "Laborum rem vel sapiente omnis.",
+      "image_url": "https:\/\/picsum.photos\/id\/566\/200\/300",
+      "amount": 36,
+      "price": 5828.41,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 114,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 114",
+      "short_description": "Omnis sint nisi adipisci assumenda consequatur.",
+      "image_url": "https:\/\/picsum.photos\/id\/413\/200\/300",
+      "amount": 6,
+      "price": 9480.76,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 115",
+      "short_description": "Error accusamus ducimus eaque consequuntur maxime quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/212\/200\/300",
+      "amount": 35,
+      "price": 521.07,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 116",
+      "short_description": "Alias non beatae tempora autem quo aliquid quo voluptas.",
+      "image_url": "https:\/\/picsum.photos\/id\/709\/200\/300",
+      "amount": 41,
+      "price": 3068.01,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 6,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.2",
+          "parent_id": 2
+        },
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 117",
+      "short_description": "Autem facilis rerum et rerum.",
+      "image_url": "https:\/\/picsum.photos\/id\/514\/200\/300",
+      "amount": 0,
+      "price": 2990.49,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        },
+        {
+          "id": 43,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.2",
+          "parent_id": 41
+        },
+        {
+          "id": 55,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.2",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 118",
+      "short_description": "Deserunt assumenda dignissimos qui.",
+      "image_url": "https:\/\/picsum.photos\/id\/869\/200\/300",
+      "amount": 21,
+      "price": 896.57,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        },
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 119",
+      "short_description": "Quia laboriosam aut iste occaecati sit recusandae velit.",
+      "image_url": "https:\/\/picsum.photos\/id\/259\/200\/300",
+      "amount": 31,
+      "price": 401.43,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 1,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1",
+          "parent_id": null
+        },
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        },
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 120",
+      "short_description": "Eligendi dignissimos rerum laudantium facilis harum nemo est officiis.",
+      "image_url": "https:\/\/picsum.photos\/id\/412\/200\/300",
+      "amount": 28,
+      "price": 1193.65,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 15,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1",
+          "parent_id": 14
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 121",
+      "short_description": "Sit nihil ut aut odit est in.",
+      "image_url": "https:\/\/picsum.photos\/id\/751\/200\/300",
+      "amount": 33,
+      "price": 3225.6,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 122,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 122",
+      "short_description": "Unde officia voluptas doloribus rerum.",
+      "image_url": "https:\/\/picsum.photos\/id\/511\/200\/300",
+      "amount": 33,
+      "price": 9860.3,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 123,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 123",
+      "short_description": "Sapiente vel et odio culpa sed cupiditate.",
+      "image_url": "https:\/\/picsum.photos\/id\/853\/200\/300",
+      "amount": 4,
+      "price": 7540.42,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 124,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 124",
+      "short_description": "Sequi et dignissimos natus distinctio.",
+      "image_url": "https:\/\/picsum.photos\/id\/233\/200\/300",
+      "amount": 13,
+      "price": 4516.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 125",
+      "short_description": "Perferendis ex porro quas qui laboriosam ut.",
+      "image_url": "https:\/\/picsum.photos\/id\/443\/200\/300",
+      "amount": 26,
+      "price": 874.86,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 43,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.2",
+          "parent_id": 41
+        },
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 126",
+      "short_description": "Maxime nesciunt sunt quia et id ducimus.",
+      "image_url": "https:\/\/picsum.photos\/id\/344\/200\/300",
+      "amount": 37,
+      "price": 5869.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 11,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.2",
+          "parent_id": 9
+        },
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 127",
+      "short_description": "Voluptas dolorum modi facilis dignissimos aliquid sint.",
+      "image_url": "https:\/\/picsum.photos\/id\/524\/200\/300",
+      "amount": 20,
+      "price": 8615.98,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 25,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 128",
+      "short_description": "Odio exercitationem quos inventore voluptatibus vel totam.",
+      "image_url": "https:\/\/picsum.photos\/id\/418\/200\/300",
+      "amount": 17,
+      "price": 7894.74,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 129,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 129",
+      "short_description": "Et atque perferendis nesciunt sequi repellat.",
+      "image_url": "https:\/\/picsum.photos\/id\/947\/200\/300",
+      "amount": 43,
+      "price": 9090.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        },
+        {
+          "id": 45,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2",
+          "parent_id": 40
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 130",
+      "short_description": "Voluptatem exercitationem vitae cum tempora repellat quaerat.",
+      "image_url": "https:\/\/picsum.photos\/id\/522\/200\/300",
+      "amount": 9,
+      "price": 6886.39,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 6,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.2",
+          "parent_id": 2
+        },
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 131",
+      "short_description": "Qui tempora neque sapiente.",
+      "image_url": "https:\/\/picsum.photos\/id\/763\/200\/300",
+      "amount": 11,
+      "price": 7189.82,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 40,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 132",
+      "short_description": "At sint molestias magnam quo reiciendis fugit.",
+      "image_url": "https:\/\/picsum.photos\/id\/359\/200\/300",
+      "amount": 25,
+      "price": 5273.41,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 21,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1",
+          "parent_id": 20
+        },
+        {
+          "id": 37,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2",
+          "parent_id": 34
+        },
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 133",
+      "short_description": "Placeat magnam quod ratione labore aut et asperiores deleniti.",
+      "image_url": "https:\/\/picsum.photos\/id\/757\/200\/300",
+      "amount": 28,
+      "price": 6459.19,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        },
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        },
+        {
+          "id": 25,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2",
+          "parent_id": 20
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 134",
+      "short_description": "Quis recusandae voluptate et rerum repudiandae dignissimos consectetur.",
+      "image_url": "https:\/\/picsum.photos\/id\/440\/200\/300",
+      "amount": 17,
+      "price": 2352.36,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 135,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 135",
+      "short_description": "Aut recusandae autem est optio est illum deserunt.",
+      "image_url": "https:\/\/picsum.photos\/id\/372\/200\/300",
+      "amount": 24,
+      "price": 3087.9,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 136,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 136",
+      "short_description": "Nemo repellendus nihil repudiandae assumenda.",
+      "image_url": "https:\/\/picsum.photos\/id\/745\/200\/300",
+      "amount": 3,
+      "price": 3109.94,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 13,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.3",
+          "parent_id": 7
+        },
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 48,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.3",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 137",
+      "short_description": "Perspiciatis sit veritatis debitis deleniti.",
+      "image_url": "https:\/\/picsum.photos\/id\/489\/200\/300",
+      "amount": 4,
+      "price": 4069.46,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 51,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1.1",
+          "parent_id": 50
+        },
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 138",
+      "short_description": "Perspiciatis autem aut atque ipsa necessitatibus quaerat nihil.",
+      "image_url": "https:\/\/picsum.photos\/id\/413\/200\/300",
+      "amount": 29,
+      "price": 2055.83,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": []
+    },
+    {
+      "id": 139,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 139",
+      "short_description": "Enim est a dolorum culpa animi blanditiis.",
+      "image_url": "https:\/\/picsum.photos\/id\/736\/200\/300",
+      "amount": 0,
+      "price": 1637.04,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 140,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 140",
+      "short_description": "Ullam ut amet quae voluptatem quam.",
+      "image_url": "https:\/\/picsum.photos\/id\/649\/200\/300",
+      "amount": 46,
+      "price": 8051.53,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": []
+    },
+    {
+      "id": 141,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 141",
+      "short_description": "Fugit non id quia labore possimus.",
+      "image_url": "https:\/\/picsum.photos\/id\/912\/200\/300",
+      "amount": 4,
+      "price": 3554.74,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        },
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 142",
+      "short_description": "Quia dolorum illo et rerum soluta praesentium velit officia.",
+      "image_url": "https:\/\/picsum.photos\/id\/299\/200\/300",
+      "amount": 31,
+      "price": 8156.89,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 143",
+      "short_description": "Aut corporis ullam nemo eligendi.",
+      "image_url": "https:\/\/picsum.photos\/id\/308\/200\/300",
+      "amount": 18,
+      "price": 755.79,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 144",
+      "short_description": "Sit harum recusandae accusamus a quia dignissimos itaque.",
+      "image_url": "https:\/\/picsum.photos\/id\/454\/200\/300",
+      "amount": 20,
+      "price": 9488.55,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 145,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 145",
+      "short_description": "Est et dolores quis eos.",
+      "image_url": "https:\/\/picsum.photos\/id\/302\/200\/300",
+      "amount": 15,
+      "price": 9707.38,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        },
+        {
+          "id": 40,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 146",
+      "short_description": "Ipsam quisquam aliquid et a veritatis nemo.",
+      "image_url": "https:\/\/picsum.photos\/id\/32\/200\/300",
+      "amount": 43,
+      "price": 3755.48,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        },
+        {
+          "id": 55,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.2",
+          "parent_id": 53
+        },
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 147",
+      "short_description": "Deserunt atque ut voluptatibus magnam explicabo.",
+      "image_url": "https:\/\/picsum.photos\/id\/323\/200\/300",
+      "amount": 18,
+      "price": 3974.26,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 48,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.3",
+          "parent_id": 45
+        },
+        {
+          "id": 11,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.2",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 148",
+      "short_description": "Doloribus assumenda similique dignissimos quia ratione.",
+      "image_url": "https:\/\/picsum.photos\/id\/542\/200\/300",
+      "amount": 31,
+      "price": 7931.76,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": []
+    },
+    {
+      "id": 149,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 149",
+      "short_description": "Ad repudiandae eligendi ea voluptas.",
+      "image_url": "https:\/\/picsum.photos\/id\/548\/200\/300",
+      "amount": 50,
+      "price": 1015.53,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 150,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 150",
+      "short_description": "Dolores veritatis sed assumenda qui beatae sint facilis.",
+      "image_url": "https:\/\/picsum.photos\/id\/21\/200\/300",
+      "amount": 24,
+      "price": 709.19,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 151",
+      "short_description": "Omnis modi error quam corporis.",
+      "image_url": "https:\/\/picsum.photos\/id\/356\/200\/300",
+      "amount": 16,
+      "price": 9612.98,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 15,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1",
+          "parent_id": 14
+        },
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        },
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 152",
+      "short_description": "Sed aperiam voluptas quam.",
+      "image_url": "https:\/\/picsum.photos\/id\/94\/200\/300",
+      "amount": 2,
+      "price": 4102.76,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 55,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.2",
+          "parent_id": 53
+        },
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        },
+        {
+          "id": 19,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2.1",
+          "parent_id": 18
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 153",
+      "short_description": "Quasi reprehenderit veniam quo consequatur voluptates sapiente iure.",
+      "image_url": "https:\/\/picsum.photos\/id\/596\/200\/300",
+      "amount": 0,
+      "price": 2263.71,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 34,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2",
+          "parent_id": 29
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 154",
+      "short_description": "Nihil reprehenderit ea ea facere nostrum.",
+      "image_url": "https:\/\/picsum.photos\/id\/310\/200\/300",
+      "amount": 25,
+      "price": 6275.72,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        },
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 155",
+      "short_description": "Nihil quidem velit ex sint quis accusamus voluptates.",
+      "image_url": "https:\/\/picsum.photos\/id\/515\/200\/300",
+      "amount": 50,
+      "price": 4101.43,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 156,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 156",
+      "short_description": "Amet veritatis cumque quia amet voluptatum et.",
+      "image_url": "https:\/\/picsum.photos\/id\/799\/200\/300",
+      "amount": 6,
+      "price": 4487.55,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        },
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 157",
+      "short_description": "Molestiae animi tempora explicabo similique reiciendis suscipit.",
+      "image_url": "https:\/\/picsum.photos\/id\/434\/200\/300",
+      "amount": 36,
+      "price": 8817.43,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 158",
+      "short_description": "Nulla est laboriosam possimus quas dolorem perferendis iusto.",
+      "image_url": "https:\/\/picsum.photos\/id\/628\/200\/300",
+      "amount": 6,
+      "price": 6082.92,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        },
+        {
+          "id": 20,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2",
+          "parent_id": null
+        },
+        {
+          "id": 5,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.2",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 159",
+      "short_description": "Repellendus et optio deserunt consectetur non aut unde.",
+      "image_url": "https:\/\/picsum.photos\/id\/537\/200\/300",
+      "amount": 44,
+      "price": 4313.73,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": []
+    },
+    {
+      "id": 160,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 160",
+      "short_description": "Praesentium vel ab numquam et ea suscipit et laboriosam.",
+      "image_url": "https:\/\/picsum.photos\/id\/897\/200\/300",
+      "amount": 45,
+      "price": 9092.05,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    },
+    {
+      "id": 161,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 161",
+      "short_description": "Totam quaerat qui esse aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/604\/200\/300",
+      "amount": 5,
+      "price": 2466.43,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 42,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.1",
+          "parent_id": 41
+        },
+        {
+          "id": 15,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1",
+          "parent_id": 14
+        },
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 162",
+      "short_description": "Autem excepturi aut quas quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/930\/200\/300",
+      "amount": 39,
+      "price": 9610.93,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 30,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1",
+          "parent_id": 29
+        },
+        {
+          "id": 49,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4",
+          "parent_id": null
+        },
+        {
+          "id": 36,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1.1",
+          "parent_id": 35
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 163",
+      "short_description": "Iure voluptates pariatur ut fuga.",
+      "image_url": "https:\/\/picsum.photos\/id\/546\/200\/300",
+      "amount": 1,
+      "price": 4867.08,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 28,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1.2",
+          "parent_id": 26
+        },
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        },
+        {
+          "id": 54,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1.1",
+          "parent_id": 53
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 164",
+      "short_description": "Deleniti ducimus et sint itaque omnis accusantium ea reiciendis.",
+      "image_url": "https:\/\/picsum.photos\/id\/903\/200\/300",
+      "amount": 44,
+      "price": 8324,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        },
+        {
+          "id": 37,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2",
+          "parent_id": 34
+        },
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 165",
+      "short_description": "Est asperiores dolorem sit.",
+      "image_url": "https:\/\/picsum.photos\/id\/59\/200\/300",
+      "amount": 20,
+      "price": 5129.86,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 12,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.3",
+          "parent_id": 9
+        },
+        {
+          "id": 56,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 5",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 166",
+      "short_description": "Voluptates quis assumenda ex aliquid possimus dolores.",
+      "image_url": "https:\/\/picsum.photos\/id\/36\/200\/300",
+      "amount": 17,
+      "price": 4047.72,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 167,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 167",
+      "short_description": "Ab debitis velit temporibus incidunt quo quod voluptas.",
+      "image_url": "https:\/\/picsum.photos\/id\/884\/200\/300",
+      "amount": 22,
+      "price": 5807.74,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 36,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1.1",
+          "parent_id": 35
+        },
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        },
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 168",
+      "short_description": "Consequatur praesentium ea delectus cum.",
+      "image_url": "https:\/\/picsum.photos\/id\/271\/200\/300",
+      "amount": 18,
+      "price": 9433.25,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 169",
+      "short_description": "Ratione sunt fuga dicta et rerum fugit ea vitae.",
+      "image_url": "https:\/\/picsum.photos\/id\/124\/200\/300",
+      "amount": 10,
+      "price": 6019.65,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        },
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        },
+        {
+          "id": 2,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1",
+          "parent_id": 1
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 170",
+      "short_description": "Molestiae ut voluptas consequatur minima.",
+      "image_url": "https:\/\/picsum.photos\/id\/338\/200\/300",
+      "amount": 35,
+      "price": 1355.99,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 46,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.1",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 171",
+      "short_description": "Ut voluptates sit porro molestiae dolor.",
+      "image_url": "https:\/\/picsum.photos\/id\/241\/200\/300",
+      "amount": 32,
+      "price": 7807.17,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        },
+        {
+          "id": 40,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3",
+          "parent_id": 29
+        },
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 172",
+      "short_description": "Ut voluptatem molestias sunt et soluta autem.",
+      "image_url": "https:\/\/picsum.photos\/id\/675\/200\/300",
+      "amount": 28,
+      "price": 1434.21,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 173",
+      "short_description": "Assumenda debitis qui aut voluptatem dolores praesentium.",
+      "image_url": "https:\/\/picsum.photos\/id\/7\/200\/300",
+      "amount": 23,
+      "price": 6081.75,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 19,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2.1",
+          "parent_id": 18
+        },
+        {
+          "id": 32,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.1",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 174",
+      "short_description": "Facere at error minima temporibus.",
+      "image_url": "https:\/\/picsum.photos\/id\/375\/200\/300",
+      "amount": 19,
+      "price": 3507.85,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 35,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1",
+          "parent_id": 34
+        },
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 175",
+      "short_description": "Rerum quam sit tenetur molestiae ut placeat repellendus.",
+      "image_url": "https:\/\/picsum.photos\/id\/698\/200\/300",
+      "amount": 46,
+      "price": 1724.94,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 11,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.2.2",
+          "parent_id": 9
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 176",
+      "short_description": "Ea quas est omnis illum numquam provident omnis.",
+      "image_url": "https:\/\/picsum.photos\/id\/861\/200\/300",
+      "amount": 34,
+      "price": 1052.6,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        },
+        {
+          "id": 42,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.1.1",
+          "parent_id": 41
+        },
+        {
+          "id": 20,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 177",
+      "short_description": "Voluptatum et commodi exercitationem id et.",
+      "image_url": "https:\/\/picsum.photos\/id\/158\/200\/300",
+      "amount": 30,
+      "price": 2713.2,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 30,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1",
+          "parent_id": 29
+        },
+        {
+          "id": 33,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1.2",
+          "parent_id": 31
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 178",
+      "short_description": "Accusamus molestiae incidunt qui neque molestias ipsum.",
+      "image_url": "https:\/\/picsum.photos\/id\/799\/200\/300",
+      "amount": 25,
+      "price": 5469.96,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        },
+        {
+          "id": 15,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1",
+          "parent_id": 14
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 179",
+      "short_description": "Sed pariatur numquam harum repellendus ut nam.",
+      "image_url": "https:\/\/picsum.photos\/id\/104\/200\/300",
+      "amount": 35,
+      "price": 8841.02,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 3,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1",
+          "parent_id": 2
+        },
+        {
+          "id": 6,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.2",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 180",
+      "short_description": "Id vel labore aliquam sequi maxime.",
+      "image_url": "https:\/\/picsum.photos\/id\/396\/200\/300",
+      "amount": 48,
+      "price": 6623.55,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 181",
+      "short_description": "Velit repellendus aliquam ut magnam.",
+      "image_url": "https:\/\/picsum.photos\/id\/669\/200\/300",
+      "amount": 4,
+      "price": 7572.54,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 19,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2.1",
+          "parent_id": 18
+        },
+        {
+          "id": 4,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.1.1",
+          "parent_id": 3
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 182",
+      "short_description": "Velit aut natus iusto quasi.",
+      "image_url": "https:\/\/picsum.photos\/id\/246\/200\/300",
+      "amount": 42,
+      "price": 8513.73,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 183",
+      "short_description": "Tempora voluptas et quia sint distinctio voluptatem quasi.",
+      "image_url": "https:\/\/picsum.photos\/id\/536\/200\/300",
+      "amount": 21,
+      "price": 7074.48,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 36,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.1.1",
+          "parent_id": 35
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 184",
+      "short_description": "Eius voluptatem cupiditate doloremque eum.",
+      "image_url": "https:\/\/picsum.photos\/id\/895\/200\/300",
+      "amount": 9,
+      "price": 1245.71,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        },
+        {
+          "id": 26,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.2.1",
+          "parent_id": 25
+        },
+        {
+          "id": 56,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 5",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 185",
+      "short_description": "Dolorum et aspernatur consequatur est.",
+      "image_url": "https:\/\/picsum.photos\/id\/38\/200\/300",
+      "amount": 0,
+      "price": 844.86,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        },
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 186",
+      "short_description": "Corporis eveniet dolor totam aliquid rerum iusto deleniti.",
+      "image_url": "https:\/\/picsum.photos\/id\/808\/200\/300",
+      "amount": 1,
+      "price": 1020.91,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 13,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.3",
+          "parent_id": 7
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 187",
+      "short_description": "Animi ut voluptatum quo consequatur magnam quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/568\/200\/300",
+      "amount": 10,
+      "price": 1934.92,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 4",
+      "categories": [
+        {
+          "id": 17,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.2",
+          "parent_id": 15
+        },
+        {
+          "id": 6,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.1.2",
+          "parent_id": 2
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 188",
+      "short_description": "Et laborum excepturi maiores omnis magnam ea.",
+      "image_url": "https:\/\/picsum.photos\/id\/346\/200\/300",
+      "amount": 26,
+      "price": 9160.2,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 189,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 189",
+      "short_description": "In expedita atque nobis ut cupiditate quasi voluptas harum.",
+      "image_url": "https:\/\/picsum.photos\/id\/507\/200\/300",
+      "amount": 34,
+      "price": 8393.34,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 8,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2.1",
+          "parent_id": 7
+        },
+        {
+          "id": 39,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.3",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 190",
+      "short_description": "In voluptatem illum non excepturi laboriosam.",
+      "image_url": "https:\/\/picsum.photos\/id\/249\/200\/300",
+      "amount": 41,
+      "price": 8119.27,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": [
+        {
+          "id": 23,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.1",
+          "parent_id": 22
+        },
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        },
+        {
+          "id": 37,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2",
+          "parent_id": 34
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 191",
+      "short_description": "Occaecati consequatur totam et quasi.",
+      "image_url": "https:\/\/picsum.photos\/id\/776\/200\/300",
+      "amount": 37,
+      "price": 1267.33,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 31,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.1.1",
+          "parent_id": 30
+        },
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 56,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 5",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 192",
+      "short_description": "Libero dignissimos perspiciatis id in est officia.",
+      "image_url": "https:\/\/picsum.photos\/id\/124\/200\/300",
+      "amount": 24,
+      "price": 9991.95,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 1",
+      "categories": [
+        {
+          "id": 22,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1",
+          "parent_id": 21
+        },
+        {
+          "id": 16,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.1.1",
+          "parent_id": 15
+        },
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 193",
+      "short_description": "Ut ut quae beatae non repellat.",
+      "image_url": "https:\/\/picsum.photos\/id\/495\/200\/300",
+      "amount": 13,
+      "price": 45.21,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 37,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2",
+          "parent_id": 34
+        },
+        {
+          "id": 7,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.2",
+          "parent_id": 1
+        },
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 194",
+      "short_description": "Deserunt dolores consequatur debitis rerum fugit velit.",
+      "image_url": "https:\/\/picsum.photos\/id\/212\/200\/300",
+      "amount": 45,
+      "price": 239.39,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 50,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.1",
+          "parent_id": 49
+        },
+        {
+          "id": 53,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2.1",
+          "parent_id": 52
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 195",
+      "short_description": "Autem repellat repellendus aut minima.",
+      "image_url": "https:\/\/picsum.photos\/id\/688\/200\/300",
+      "amount": 40,
+      "price": 6339.62,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 29,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3",
+          "parent_id": null
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 196",
+      "short_description": "Ut quia aut exercitationem totam.",
+      "image_url": "https:\/\/picsum.photos\/id\/765\/200\/300",
+      "amount": 20,
+      "price": 4108.4,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": []
+    },
+    {
+      "id": 197,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 197",
+      "short_description": "Maxime nostrum aut quod est.",
+      "image_url": "https:\/\/picsum.photos\/id\/860\/200\/300",
+      "amount": 38,
+      "price": 1350.41,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 2",
+      "categories": [
+        {
+          "id": 38,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.2.2.1",
+          "parent_id": 37
+        },
+        {
+          "id": 18,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 1.3.2",
+          "parent_id": 14
+        },
+        {
+          "id": 52,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 4.2",
+          "parent_id": 49
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 198",
+      "short_description": "Non est non labore tenetur reprehenderit aut.",
+      "image_url": "https:\/\/picsum.photos\/id\/51\/200\/300",
+      "amount": 8,
+      "price": 3958.11,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 5",
+      "categories": [
+        {
+          "id": 24,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 2.1.1.2",
+          "parent_id": 22
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 199",
+      "short_description": "Et qui cum quisquam animi quia.",
+      "image_url": "https:\/\/picsum.photos\/id\/621\/200\/300",
+      "amount": 13,
+      "price": 5449.5,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 6",
+      "categories": [
+        {
+          "id": 47,
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f 3.3.2.2",
+          "parent_id": 45
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442 200",
+      "short_description": "Assumenda rerum et quaerat deserunt explicabo non.",
+      "image_url": "https:\/\/picsum.photos\/id\/834\/200\/300",
+      "amount": 3,
+      "price": 7541.7,
+      "producer": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c 3",
+      "categories": []
+    }
+  ]
+}
